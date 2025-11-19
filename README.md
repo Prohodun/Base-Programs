@@ -4,7 +4,7 @@
 
 # 🎯Base Learn Newcomer
 - Go to : https://remix.ethereum.org/
-- Create new file or replace previous file
+- Create new file 
 - Submit script :
 
 ```solidity
