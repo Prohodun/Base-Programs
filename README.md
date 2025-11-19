@@ -1,6 +1,5 @@
 # Prepare your wallet
 - Download extention: https://chromewebstore.google.com/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
-- Add Base Sepolia testnet: https://chainlist.org/?search=base+sepolia&testnets=true
 - Faucet: https://testnet.ponzi.fun/faucet
 
 # 🎯Base Learn Newcomer
